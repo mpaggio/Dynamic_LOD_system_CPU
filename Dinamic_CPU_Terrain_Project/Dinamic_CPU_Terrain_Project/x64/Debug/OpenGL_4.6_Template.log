@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(232,25): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(288,61): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(308,38): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(310,42): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(316,38): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(318,42): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(344,106): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(350,107): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\OpenGL_4.6_Template\main.cpp(355,72): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+  OpenGL_4.6_Template.vcxproj -> C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\OpenGL_4.6_Template\x64\Debug\OpenGL_4.6_Template.exe

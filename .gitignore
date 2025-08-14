@@ -1,0 +1,12 @@
+# Visual Studio cache and intermediate files
+.vs/
+*.ipch
+
+# Build output
+bin/
+obj/
+
+# Files di progetto temporanei e generati
+*.user
+*.suo
+*.cache

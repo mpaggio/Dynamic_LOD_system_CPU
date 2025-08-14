@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (LOD_Terrain_Project.vcxproj, OpenGL_4.6_Template.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  main.cpp
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(21,24): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(114,47): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(115,47): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(116,47): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(311,25): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(330,78): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(349,38): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(351,42): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(357,38): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(359,42): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(384,106): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(390,107): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(395,72): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(421,79): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(434,77): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\CPU_Terrain_Project\main.cpp(447,76): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+  CPU_Terrain_Project.vcxproj -> C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL_confronto_CPU\CPU_Terrain_Project\x64\Debug\CPU_Terrain_Project.exe

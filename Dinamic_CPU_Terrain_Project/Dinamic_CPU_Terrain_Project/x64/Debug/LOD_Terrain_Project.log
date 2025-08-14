@@ -1,0 +1,33 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (OpenGL_4.6_Template.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  bufferHandler.cpp
+  cameraHandler.cpp
+  geometryHandler.cpp
+  guiHandler.cpp
+  interactionHandler.cpp
+  main.cpp
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(21,24): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(258,25): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(276,61): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(296,38): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(298,42): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(304,38): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(306,42): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(331,106): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(337,107): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\main.cpp(342,72): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+  modelLoader.cpp
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(44,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(229,55): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(245,56): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(264,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(269,27): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(286,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(301,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\modelLoader.cpp(340,27): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  noiseHandler.cpp
+  shaderHandler.cpp
+  textureHandler.cpp
+  utilities.cpp
+C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\LOD_Terrain_Project\utilities.cpp(8,15): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  LOD_Terrain_Project.vcxproj -> C:\Marco\UNIVERSITA\Tesi\Progetto_OpenGL\LOD_Terrain_Project\x64\Debug\LOD_Terrain_Project.exe
